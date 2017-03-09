@@ -11,12 +11,12 @@
  </description>
  <language>en</language>
  <item>
-  <title>Version 1.0.0.116</title>
+  <title>Version 1.0.0.117</title>
   <sparkle:releaseNotesLink>
    https://raw.githubusercontent.com/gnanasekar-somanathan/ExperimentAutoUpdate/master/1.0.0.115.html
   </sparkle:releaseNotesLink>
   <pubDate>Thu, 09 Mar 2017 15:41:18 +0000</pubDate>
-  <enclosure url="https://raw.githubusercontent.com/gnanasekar-somanathan/ExperimentAutoUpdate/master/x64/adaware_installer_64bit.exe" sparkle:version="1.0.0.116"/>
+  <enclosure url="https://raw.githubusercontent.com/gnanasekar-somanathan/ExperimentAutoUpdate/master/x64/adaware_installer_64bit.exe" sparkle:version="1.0.0.117"/>
   <sparkle:minimumSystemVersion>6.0.9999</sparkle:minimumSystemVersion>
 </item>
 </channel>
